@@ -9,9 +9,12 @@ a multi-layer anti-cheat system, and results are stored persistently in a local 
 ## Screenshots
 
 > Login →<img width="330" height="170" alt="image" src="https://github.com/user-attachments/assets/01ec18b3-815a-4d56-8dcb-6c4ec3d3152e" />
- Student Dashboard → <img width="330" height="177" alt="image" src="https://github.com/user-attachments/assets/9987c0f5-c470-473f-b28f-28d4fe16ef76" />
+
+> Student Dashboard → <img width="330" height="177" alt="image" src="https://github.com/user-attachments/assets/9987c0f5-c470-473f-b28f-28d4fe16ef76" />
+
 Quiz Attempt (Fullscreen) →<img width="330" height="189" alt="image" src="https://github.com/user-attachments/assets/927bd287-0ce1-422e-aca2-4bb61cf0e971" />
  Results  
+>
 > Teacher Dashboard → Class Management → Mark Written Answers <img width="330" height="185" alt="image" src="https://github.com/user-attachments/assets/7f9359e9-3a14-4288-b8e8-45eb69b77bfc" />
 
 
